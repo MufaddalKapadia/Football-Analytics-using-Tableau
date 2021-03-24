@@ -12,7 +12,7 @@ This repository contains tableau files. Different analysis have been performed i
 
 2. Top 10 xG+xA per 90 for Premier league Defenders
 
-![alt text](http://url/to/Assign2.png)
+![Assign2](https://user-images.githubusercontent.com/31702449/112308880-a4bb0580-8cc8-11eb-9565-335041be4b6d.png)
 
 3. Player Profile - Luke Shaw
 
