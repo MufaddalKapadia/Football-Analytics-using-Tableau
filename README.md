@@ -5,3 +5,20 @@ This repository contains tableau files. Different analysis have been performed i
 * Scatter Plot
 * Bar graph
 * BeeSwarm plot
+
+1. Comparing rise in number of teams at the FIFA World Cup and number of Goals scored
+
+![alt text](http://url/to/ScatterPlotTableau.png)
+
+2. Top 10 xG+xA per 90 for Premier league Defenders
+
+![alt text](http://url/to/Assign2.png)
+
+3. Player Profile - Luke Shaw
+
+![alt text](http://url/to/Player profile - Luke shaw.png)
+
+4. BeeSwarm Plot 
+
+![alt text](http://url/to/KDb vs gundo.png)
+
