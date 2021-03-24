@@ -20,5 +20,4 @@ This repository contains tableau files. Different analysis have been performed i
 
 4. BeeSwarm Plot 
 
-![alt text](http://url/to/KDb vs gundo.png)
-
+![KDb vs gundo](https://user-images.githubusercontent.com/31702449/112309033-d764fe00-8cc8-11eb-9318-9b901e1be27f.png)
