@@ -16,7 +16,7 @@ This repository contains tableau files. Different analysis have been performed i
 
 3. Player Profile - Luke Shaw
 
-![alt text](http://url/to/Player profile - Luke shaw.png)
+![Player profile - Luke shaw](https://user-images.githubusercontent.com/31702449/112308954-bdc3b680-8cc8-11eb-9b8a-114954692770.png)
 
 4. BeeSwarm Plot 
 
