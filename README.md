@@ -8,7 +8,7 @@ This repository contains tableau files. Different analysis have been performed i
 
 1. Comparing rise in number of teams at the FIFA World Cup and number of Goals scored
 
-![alt text](C:\Users\Mufaddal\Desktop\Tableau Tuts\ScatterPlotTableau.png)
+![ScatterPlotTableau](https://user-images.githubusercontent.com/31702449/112308783-894ffa80-8cc8-11eb-9c32-5267c7ceaac8.png)
 
 2. Top 10 xG+xA per 90 for Premier league Defenders
 
